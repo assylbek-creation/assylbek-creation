@@ -27,6 +27,12 @@ class Assylbek:
 - ⚖️ **Applied Science Intern @ Relativity** (2026) — LLM agent that automates prompt refinement for legal document review: matches expert-written prompts in **~20 iterations vs ~80** manual revisions; evaluation on **10K+** attorney-labeled docs
 - 🛢️ **Data Scientist @ SLB (Schlumberger)** (2023–2025) — hybrid RAG search (FAISS + cross-encoder) that cut technical query time **4h → 25 min** across 5 business units; moved **500+** Excel workflows into one system
 
+## 🏆 Highlights
+
+- 🥇 **IISE QCRE Data Challenge 2026** — **1st on the validation leaderboard**, Top 5 of 33 teams. CV ensemble (ResNet-50 + ResNeXt-50 + ConvNeXt) for packaging-film defect detection, score **1.9855 / 2.0**; presented at the IISE Annual Conference
+- 🧠 **LLM Fine-Tuning & Serving — industry capstone with a retail partner** — LoRA fine-tuning stage (NeMo AutoModel): fine-tuned **Gemma 4 12B** resolves **39.5%** of held-out questions vs **24.4%** for the untuned Gemma 4 26B. FP8 serving in vLLM cut P95 first-token latency **0.38 → 0.21 s**
+- 🔬 **Research @ Northwestern** — conditional diffusion models (DDPM, LDM) for microscopy, trained with PyTorch DDP on HPC (SLURM); manuscript in preparation
+
 ## 🛠️ Tech stack
 
 <div align="center">
