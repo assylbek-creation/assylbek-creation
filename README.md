@@ -18,14 +18,14 @@
 class Assylbek:
     role      = "AI / ML Engineer"
     based_in  = "Kazakhstan 🇰🇿 → USA 🇺🇸"
-    studying  = "MS in Machine Learning & Data Science"
+    studying  = "M.S. in Artificial Intelligence @ Northwestern"
     focus     = ["Generative models", "NLP / LLMs", "Computer Vision", "MLOps"]
     currently = "Conditional diffusion models for biomedical imaging"
     fun_fact  = "Implemented GPT-2 from scratch — and it actually works 🙂"
 ```
 
-- 🛢️ **Data Scientist @ SLB (Schlumberger)** — 2023–2025: RAG knowledge system (query time **4h → 25 min**), real-time CV pipeline on **1000+ video streams** (YOLOv8, 94% accuracy), automation of 500+ Excel workflows
-- 🎓 **Research Assistant @ Astana IT University** — multimodal RoBERTa + CNN-LSTM for drilling anomaly detection (**+18% F1** over baseline)
+- ⚖️ **Applied Science Intern @ Relativity** (2026) — LLM agent that automates prompt refinement for legal document review: matches expert-written prompts in **~20 iterations vs ~80** manual revisions; evaluation on **10K+** attorney-labeled docs
+- 🛢️ **Data Scientist @ SLB (Schlumberger)** (2023–2025) — hybrid RAG search (FAISS + cross-encoder) that cut technical query time **4h → 25 min** across 5 business units; moved **500+** Excel workflows into one system
 
 ## 🛠️ Tech stack
 
@@ -55,18 +55,5 @@ class Assylbek:
 | 🛢️ [**DDR Analyzer**](https://github.com/assylbek-creation/ddr_analyzer) | LLM-powered analysis of Daily Drilling Reports: PDF parsing, section classification, FAISS search, REST API | FastAPI · Transformers · FAISS · Docker |
 | 🎵 [**MP3 Converter System**](https://github.com/assylbek-creation/mp3-converter-system) | Video → MP3 microservices with JWT auth and async queues on Kubernetes | Flask · RabbitMQ · MongoDB · K8s |
 | 🌐 [**3D Portfolio**](https://github.com/assylbek-creation/portfolio) | Interactive 3D portfolio website — [live demo](https://assylbek-creation.github.io/portfolio/) | React · Three.js · Tailwind |
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=assylbek-creation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assylbek-creation&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=assylbek-creation&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=assylbek-creation&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
